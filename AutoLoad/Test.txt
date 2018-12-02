@@ -1,2 +1,0 @@
-Edit the filename/url in the Max plugin
-修改Max文件里的文件名/网站
